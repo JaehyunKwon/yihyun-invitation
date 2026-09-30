@@ -29,6 +29,6 @@
 
 ```text
 ├── index.html        # 초대장 메인 페이지 (HTML + CSS + JS)
-├── hanbok.png       # 메인 아기 프로필 사진
+├── hanbok.png        # 메인 아기 프로필 사진
 ├── video.mp4         # 성장 동영상 파일
 └── README.md         # 프로젝트 안내 문서
